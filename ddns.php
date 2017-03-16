@@ -3,8 +3,8 @@
 /**
  * 一个单文件的dnspod ddns 动态域名解析的实现
  * @auther terry<jstel###126.com>
- * @license 你随便用， 如果有转发， 留下我的名字
- * @link URL description
+ * @license 你随便用， 如果有转发， 留下我的名字即可
+ * @link https://github.com/terry2010/php-dnspod-ddns  欢迎到 github 点个star
  */
 /* * **************程序配置项目开始****************** */
 
