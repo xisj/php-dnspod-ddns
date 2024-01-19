@@ -1,6 +1,10 @@
 # php-dnspod-ddns
 一个可以直接用的单文件DNSpod 实现ddns 动态域名解析的php 文件
 
+# 2024-01-19 更新
+php版本的api太古老了， 用最新的api重写了一个纯shell的版本， 方便在路由等环境里使用
+
+https://github.com/xisj/dnspod-ddns
 
 ## 使用方法
 
